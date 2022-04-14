@@ -3,4 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: home
 ---
+
+{::comment}
+<h1 class="display-1">welcome to my site</h1>
+{:/comment}
+
+# welcome to my site
+
+thank you for stumbling across my corner of the internet. feel free to have a look around, maybe you'll find something you'll like.

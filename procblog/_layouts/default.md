@@ -6,7 +6,7 @@
     <title>{{ page.title }} | {{site.title}}</title>
   </head>
   <body>
-    <div class="container-fluid" style="padding-top: 1%;">
+    <div class="container-fluid" style="padding-top: 1%; padding-bottom: 70px;">
       {{ content }}
     </div>
     {% include navbar.html %}

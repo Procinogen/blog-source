@@ -13,4 +13,4 @@ here are my socials. feel free to follow and contact me.
 - [Youtube](https://www.youtube.com/channel/UCEO6q5zKo43cmbk1OHqbtJQ)
 
 check out my friends' websites!
-- [kairosjk.github.io/](kairosjk.github.io/)
+- [kairosjk.github.io/](https://kairosjk.github.io/)

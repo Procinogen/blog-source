@@ -15,4 +15,6 @@ tags: essay philosophy simulation-theory
 
 <hr/>
 
+#### Works Cited
+
 Putnam, Hilary (1999). Brains in a Vat. In Sven Bernecker & Fred I. Dretske (eds.), *Knowledge: Readings in Contemporary Epistemology.* Oxford University Press. pp. 1-21.

@@ -10,5 +10,6 @@
       {{ content }}
     </div>
     {% include navbar.html %}
+    <script src='/assets/js/main.js'><script/>
   </body>
 </html>

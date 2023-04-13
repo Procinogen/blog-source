@@ -45,5 +45,5 @@ Substitute:\
 pretend its something else -\
 Evaluate:\
 “Unnecessary.”\
-Closure:
+Closure:\
 alone.

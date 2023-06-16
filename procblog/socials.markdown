@@ -6,7 +6,7 @@ permalink: /socials/
 
 here are my socials. feel free to follow and contact me. 
 
-- [Email](mailto:macalua.gerard@gmail.com)
+- [Email](mailto:procinogen@gmail.com)
 - [Github](https://github.com/Procinogen)
 - [Instagram](https://www.instagram.com/procinogen/)
 - [Twitter](https://twitter.com/home)

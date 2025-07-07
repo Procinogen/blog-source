@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The average person is a nobody
-excerpt: Rambling
+excerpt: passing thoughts from a self-loathing personality
 tags: personal thoughts
 ---
 
